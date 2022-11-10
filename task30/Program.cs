@@ -15,7 +15,7 @@ void RandomArray(int []array)                 //функция заполнен�
     }
 }
 
-void PrintArray(int[] array)
+void PrintArray(int[] array)                  //функция вывода массивва в консоль
 {
     int index = 0;
     while (index < number){
@@ -24,7 +24,7 @@ void PrintArray(int[] array)
     }
 }
 
-void TrueFalseArray(int[] array)
+void TrueFalseArray(int[] array)              //функция определения True или False
 {
     int maxcount = 0;
     int mincount = 0;
